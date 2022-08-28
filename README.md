@@ -28,4 +28,5 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9iV3HR9T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" loading="lazy" width="113" height="28">
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div
+  

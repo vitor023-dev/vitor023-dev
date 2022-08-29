@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitor023-dev
-- 🌱Atualmente estou estudando React JS
-- 👯Procure-me tornar um desenvolvedor front-end
+- 🌱Atualmente estou estudando React 
+- 👯Desejo me tornar um desenvolvedor front-end
 
 <div>
   <a href="https://github.com/vitor023-dev">
